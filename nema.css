@@ -1,0 +1,14 @@
+header{
+    background-color: aqua;
+}
+#t1{
+    text-align: center;
+}
+.ims{
+    float: left;
+
+}
+body{
+    display:flex;
+    flex-direction:column;
+}
